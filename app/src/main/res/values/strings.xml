@@ -1,0 +1,58 @@
+
+<resources>
+    <string name="app_name">MyAudioLibrary</string>
+
+    <string name="unknown">Unknown</string>
+    <string name="albums">Albums</string>
+    <string name="allow">Allow</string>
+    <string name="error">Error</string>
+    <string name="launch">Launch</string>
+    <string name="start">Start</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="none">None</string>
+    <string name="name">Name</string>
+    <string name="date_modified">Date Modified</string>
+    <string name="date_added">Date Added</string>
+    <string name="length">Length</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="apply">Apply</string>
+    <string name="sleep_timer_dialog_title">Sleep Timer</string>
+    <string name="sleep_timer_dialog_minute_s">%1$s min</string>
+    <string name="playback_speed_dialog_x_f">%1$.2fx</string>
+    <string name="equalizer">Equalizer</string>
+    <string name="audio_fx_scr_abbr_db_suffix_d">%1$s dB</string>
+    <string name="audio_fx_scr_abbr_hz_suffix_d">%1$s Hz</string>
+
+    <string name="msg_unknown_error"><b>Error\n</b>Oops!! some unknown error has occurred.</string>
+    <string name="msg_unplayable_file">can\'t play the audio file</string>
+
+    <string name="msg_3rd_party_equalizer_not_found">
+        No third-party or built-in equalizer found. Please download a third-party equalizer from the
+        market to enhance your audio experience.
+    </string>
+
+    <string name="pref_use_inbuilt_audio_effects">Audio Effects</string>
+    <string name="pref_use_inbuilt_audio_effects_summery">Switch between in-built or 3rd party
+        audio effects.\n<i>Turn Off in-built effects manually if using 3rd party app.</i></string>
+    <string name="permission_screen_title">Storage\nPermission</string>
+    <string name="permission_screen_desc">
+       This app lets you enjoy audio files from your device’s storage. To do that, it needs your
+        permission to access your storage
+    </string>
+
+    <array name="audio_fx_scr_equalizer_presets">
+        <item>Custom</item>
+        <item>Normal</item>
+        <item>Classical</item>
+        <item>Dance</item>
+        <item>Flat</item>
+        <item>Folk</item>
+        <item>Heavy Metal</item>
+        <item>Hip Hop</item>
+        <item>Jazz</item>
+        <item>Pop</item>
+        <item>Rock</item>
+    </array>
+
+</resources>
