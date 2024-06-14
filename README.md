@@ -28,7 +28,7 @@
 * Media Session and Audio Focus support
 * Pause playback when disconnecting headphones
 
-* ### Let Us know
+### Let Us know
 For more details, visit [MultiQoS.](https://multiqos.com/)
 
 Contact us for collaboration or support:
